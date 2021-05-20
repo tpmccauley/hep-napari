@@ -1,2 +1,2 @@
-# nanoAOD-viz
-Experiments in visualization of nanoAOD for CMS
+# HEP Napari
+Experiments in visualization using uproot + awkward + napari
